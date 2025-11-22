@@ -2,7 +2,8 @@
 
 1. Building Generative AI Workflows with Amazon Bedrock
 
-<img width="1162" height="518" alt="image" src="https://github.com/user-attachments/assets/df1708c4-1526-472b-ae65-ca48ee6736f2" />
+<img width="1156" height="444" alt="image" src="https://github.com/user-attachments/assets/74004782-791b-4937-bf30-4ca3a7be4f3d" />
+
 
 3. Building Serverless GenAI Application with Amazon Bedrock
 
